@@ -1,34 +1,24 @@
 # TatiDev
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
-Sou estudante de Tecnologia da Informação com foco em Engenharia e Desenvolvimento de Software, apaixonada por aprender, evoluir e transformar conhecimento em prática.
+Sou estudante de Tecnologia da Informação com foco em Engenharia e Desenvolvimento de Software. Sou movida pela transformação de conceitos teóricos em soluções práticas e funcionais, sempre buscando o equilíbrio entre disciplina, lógica e inovação.
 
-Tenho grande interesse em programação, desenvolvimento de sistemas e resolução de problemas, buscando constantemente aprimorar minhas habilidades técnicas e minha lógica.
+##   No que estou focada:
 
-## 🚀 Jornada
+•Desenvolvimento de Sistemas: Construindo aplicações robustas e escaláveis.
+•Sistemas Embarcados & Robótica: Explorando a integração entre hardware e software através de Arduino e IoT.
+•Infraestrutura: Aprofundando conhecimentos em Redes de Computadores e arquitetura de sistemas.
 
-Estou em constante evolução, construindo projetos que refletem minha trajetória — incluindo aprendizados, desafios e conquistas.
+##  Minha Jornada:
 
-Valorizo:
-- Disciplina
-- Consistência
-- Autonomia nos estudos
+ Acredito na autonomia nos estudos e na consistência como pilares para a excelência técnica. Meu objetivo atual é aplicar meus conhecimentos em cenários reais, contribuindo para projetos que gerem impacto tecnológico e aprendizado contínuo.
 
-## 💡 Interesses
+ • Buscando: Oportunidades de estágio e colaboração em projetos Open Source
+ •Curiosidade: Adoro o desafio de programar hardware e ver o código ganhando vida no mundo físico.
+ 
 
-- Desenvolvimento de Software
-- Redes de Computadores
-- Sistemas Embarcados
-- Robótica
-- Arduino
-- Inovação Tecnológica
-
-## 🎯 Objetivo
-
-Busco oportunidades para aplicar meus conhecimentos, adquirir experiência prática e crescer profissionalmente na área de TI, contribuindo com dedicação, curiosidade e vontade de aprender.
-
-### 💻 Tech Stack
+###  Linguagens
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
