@@ -7,7 +7,9 @@ Sou estudante de Tecnologia da Informação com foco em Engenharia e Desenvolvim
 ##   No que estou focada:
 
 •Desenvolvimento de Sistemas: Construindo aplicações robustas e escaláveis.
+
 •Sistemas Embarcados & Robótica: Explorando a integração entre hardware e software através de Arduino e IoT.
+
 •Infraestrutura: Aprofundando conhecimentos em Redes de Computadores e arquitetura de sistemas.
 
 ##  Minha Jornada:
@@ -15,6 +17,7 @@ Sou estudante de Tecnologia da Informação com foco em Engenharia e Desenvolvim
  Acredito na autonomia nos estudos e na consistência como pilares para a excelência técnica. Meu objetivo atual é aplicar meus conhecimentos em cenários reais, contribuindo para projetos que gerem impacto tecnológico e aprendizado contínuo.
 
  • Buscando: Oportunidades de estágio e colaboração em projetos Open Source
+ 
  •Curiosidade: Adoro o desafio de programar hardware e ver o código ganhando vida no mundo físico.
  
 
