@@ -4,7 +4,7 @@
 
 Sou estudante de Tecnologia da Informação com foco em Engenharia e Desenvolvimento de Software. Sou movida pela transformação de conceitos teóricos em soluções práticas e funcionais, sempre buscando o equilíbrio entre disciplina, lógica e inovação.
 
-##   No que estou focada:
+##  Foco em:
 
 •Desenvolvimento de Sistemas: Construindo aplicações robustas e escaláveis.
 
